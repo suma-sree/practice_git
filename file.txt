@@ -1,0 +1,24 @@
+
+
+
+Hello!! How are you?
+
+#include<stdio.h>
+int main(){
+	int a = 10;
+	int arr = [];
+
+}
+
+def hello():
+{
+	//This is a function ;
+B
+B
+A
+A
+D
+D
+}
+
+
